@@ -17,4 +17,5 @@ In this Project we will analyse the Purchase of Bikes of individuals from Europe
  - Children<p>
 ### Analysis Derived from the dataset
 - Average income per purchase by gender<p>
-![image](https://github.com/MYZDEE/Data-Analysis/assets/128803445/74ac5246-f5af-4683-af1d-5583a0533692 It can be seen that the puchase by men  are a bit higher that that of women
+![image](https://github.com/MYZDEE/Data-Analysis/assets/128803445/cb289e15-6694-4efb-9a73-a11813128523)
+It can be seen that the puchase by men  are a bit higher that that of women
