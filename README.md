@@ -21,4 +21,5 @@ In this Project we will analyse the Purchase of Bikes of individuals from Europe
 
 It can be seen that the puchase by men  are a bit higher that that of women
 - Customer Commute: This the distance or miles each individual travels on bike<p>
-![image](https://github.com/MYZDEE/Data-Analysis/assets/128803445/18026d6d-915e-4dba-a078-6f89f3fb31ca)
+![image](https://github.com/MYZDEE/Data-Analysis/assets/128803445/18026d6d-915e-4dba-a078-6f89f3fb31ca)<p>
+The table above shos the distance that individuals tavel and whether they purchase a bike or not
