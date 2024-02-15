@@ -28,3 +28,4 @@ The table above shos the distance that individuals tavel and whether they purcha
 I created a dashboard for the tables and inserted slicers to connect all the tables. With this when any of the slicers are clicked it will show data pertaining to that particular statistics<p>
 ![image](https://github.com/MYZDEE/Data-Analysis/assets/128803445/3fd0cea6-46ae-4269-ac11-28d7ee15a856)
 
+
