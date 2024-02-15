@@ -25,6 +25,6 @@ It can be seen that the puchase by men  are a bit higher that that of women
 The table above shos the distance that individuals tavel and whether they purchase a bike or not
 - Customer Age Bracket: This shows the age range of individuals who purchased a bike and those who did not<p>
 ![image](https://github.com/MYZDEE/Data-Analysis/assets/128803445/346d1864-976e-4bc5-9e2f-0cb26316d04f)<P>
-I created a dashboard for the tables and inserted a slicer to connect all the tables<p>
+I created a dashboard for the tables and inserted slicers to connect all the tables. With this when any of the slicers are clicked it will show data pertaining to that particular statistics<p>
 ![image](https://github.com/MYZDEE/Data-Analysis/assets/128803445/3fd0cea6-46ae-4269-ac11-28d7ee15a856)
 
