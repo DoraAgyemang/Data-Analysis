@@ -19,7 +19,7 @@ In this Project we will analyse the Purchase of Bikes of individuals from Europe
 - Average income per purchase by gender<p>
 ![image](https://github.com/MYZDEE/Data-Analysis/assets/128803445/cb289e15-6694-4efb-9a73-a11813128523)
 
-It can be seen that the puchase by men  are a bit higher that that of women
+It can be seen that the puchase by men  are higher than that of women but the number of women who purchased a bike according to the analysis are higher than men. The `Yes` represents those who purchased bike and `No`represents those who did not.
 - Customer Commute: This the distance or miles each individual travels on bike<p>
 ![image](https://github.com/MYZDEE/Data-Analysis/assets/128803445/18026d6d-915e-4dba-a078-6f89f3fb31ca)<p>
 The table above shos the distance that individuals tavel and whether they purchase a bike or not
