@@ -32,6 +32,6 @@ The table above shows the distance that individuals travel from home to work and
 <P>
 I created a dashboard for the tables and inserted slicers to connect all the tables. With this when any of the slicers are clicked it will show data pertaining to that particular statistics<p>
    
-![image](https://github.com/MYZDEE/Data-Analysis/assets/128803445/8fc4c0e3-a9b8-49cc-9d10-e02eea998b7a)
+![image](https://github.com/MYZDEE/Data-Analysis/assets/128803445/42e675bb-d50d-4691-888b-fb0442c1f2e0)
 
 
